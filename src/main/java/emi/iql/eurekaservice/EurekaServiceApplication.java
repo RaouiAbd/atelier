@@ -13,6 +13,6 @@ public class EurekaServiceApplication {
         SpringApplication.run(EurekaServiceApplication.class, args);
     }
     
-    public void abde() {}
+    public void abde(String name) {}
 
 }
