@@ -13,6 +13,6 @@ public class EurekaServiceApplication {
         SpringApplication.run(EurekaServiceApplication.class, args);
     }
     
-    public void tii(String nammmm) {}
+    public void tii(String m) {}
 
 }
