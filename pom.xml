@@ -10,9 +10,10 @@
     </parent>
     <groupId>emi.iql</groupId>
     <artifactId>eureka-service</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>myApp</version>
     <name>eureka-service</name>
     <description>registry microservice</description>
+    <packaging>war</packaging>
 
     <properties>
         <java.version>1.8</java.version>
